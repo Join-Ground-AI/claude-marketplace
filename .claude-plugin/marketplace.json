@@ -1,18 +1,34 @@
 {
   "name": "ground-ecommerce",
-  "description": "AI-powered marketing workflows for DTC and ecommerce teams by Ground",
   "owner": {
     "name": "Ground",
     "url": "https://joinground.com"
+  },
+  "metadata": {
+    "description": "AI-powered marketing workflows for DTC and ecommerce teams by Ground",
+    "version": "1.0.0",
+    "repository": "https://github.com/Join-Ground-AI/claude-marketplace"
   },
   "plugins": [
     {
       "name": "ecommerce-marketing-skills",
       "description": "13 AI workflow systems for UGC campaigns, SEO content, and affiliate program management.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/Join-Ground-AI/Ecommerce-Marketing-Skills.git"
-      }
+      "source": "./",
+      "skills": [
+        "./skills/ugc-creative-briefer",
+        "./skills/ugc-creator-outreach",
+        "./skills/ugc-content-reviewer",
+        "./skills/ugc-performance-tagger",
+        "./skills/seo-keyword-researcher",
+        "./skills/seo-content-planner",
+        "./skills/seo-content-writer",
+        "./skills/seo-monthly-reviewer",
+        "./skills/affiliate-recruiter",
+        "./skills/affiliate-onboarding-kit",
+        "./skills/affiliate-content-qa",
+        "./skills/affiliate-performance-optimizer",
+        "./skills/affiliate-payout-reporter"
+      ]
     }
   ]
 }

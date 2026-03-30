@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-marketing-skills",
+  "version": "1.0.0",
+  "description": "13 AI-powered workflow systems for DTC and ecommerce teams — UGC campaigns, SEO content, and affiliate program management.",
+  "author": {
+    "name": "Ground",
+    "url": "https://joinground.com"
+  },
+  "homepage": "https://joinground.com",
+  "repository": "https://github.com/Join-Ground-AI/Ecommerce-Marketing-Skills",
+  "license": "MIT",
+  "keywords": ["dtc", "ecommerce", "ugc", "seo", "affiliate", "marketing", "shopify"]
+}
