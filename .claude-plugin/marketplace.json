@@ -29,6 +29,14 @@
         "./skills/affiliate-performance-optimizer",
         "./skills/affiliate-payout-reporter"
       ]
+    },
+    {
+      "name": "retention-marketing-skills",
+      "description": "13 AI workflow systems for email/SMS flow auditing, segmentation, abandonment recovery, winback, SMS strategy, campaign planning, and performance optimization.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Join-Ground-AI/Retention-Marketing-Skills.git"
+      }
     }
   ]
 }
