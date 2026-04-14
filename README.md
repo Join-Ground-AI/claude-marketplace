@@ -9,14 +9,14 @@ AI-powered marketing workflows for DTC and ecommerce teams.
 
 ## Install
 
-**Step 1: Add this marketplace**
-```
-claude plugin marketplace add github:Join-Ground-AI/claude-marketplace
+**Step 1: Add the marketplace**
+```bash
+claude plugins marketplace add Join-Ground-AI/claude-marketplace
 ```
 
 **Step 2: Install the plugin**
-```
-claude plugin install ecommerce-marketing-skills
+```bash
+claude plugins install ecommerce-marketing-skills@ground-ecommerce
 ```
 
 ## Built by
