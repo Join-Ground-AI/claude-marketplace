@@ -1,11 +1,12 @@
 ---
 name: affiliate-content-qa
-description: >
-  Audit affiliate content and placements for brand safety and compliance. Use this skill when someone
-  wants to review affiliate sites, check affiliate content, audit brand mentions, verify pricing accuracy,
-  check for unauthorized discount codes, or ensure brand-safe placements. Also trigger when someone mentions
-  "audit affiliates", "affiliate compliance", "brand safety check", "affiliate content review", "check
-  affiliate sites", "unauthorized codes", or "affiliate QA".
+description: Audit affiliate content and placements for brand safety and compliance. Use this skill when someone wants to review affiliate sites, check affiliate content, audit brand mentions, verify pricing accuracy, check for unauthorized discount codes, or ensure brand-safe placements. Also trigger when someone mentions "audit affiliates", "affiliate compliance", "brand safety check", "affiliate content review", "check affiliate sites", "unauthorized codes", or "affiliate QA".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Content & Placement QA

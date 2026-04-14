@@ -1,11 +1,12 @@
 ---
 name: ugc-performance-tagger
-description: >
-  Analyze UGC ad campaign performance and flag winners and losers. Use this skill when someone wants to
-  review their UGC campaign metrics, identify winning ad sets, flag underperforming creatives, analyze
-  TikTok or Instagram ad performance, or create a feedback loop between ad performance and creator briefing.
-  Also trigger when someone mentions "check my campaign", "which ads are winning", "flag underperformers",
-  "ad performance review", "hook rate", "hold rate", "CTR by creative", "ROAS by ad", or "which creatives should I kill".
+description: Analyze UGC ad campaign performance and flag winners and losers. Use this skill when someone wants to review their UGC campaign metrics, identify winning ad sets, flag underperforming creatives, analyze TikTok or Instagram ad performance, or create a feedback loop between ad performance and creator briefing. Also trigger when someone mentions "check my campaign", "which ads are winning", "flag underperformers", "ad performance review", "hook rate", "hold rate", "CTR by creative", "ROAS by ad", or "which creatives should I kill".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # UGC Performance Tag & Feedback Loop

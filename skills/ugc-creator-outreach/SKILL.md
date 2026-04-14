@@ -1,10 +1,12 @@
 ---
 name: ugc-creator-outreach
-description: >
-  Find and outreach UGC creators for DTC brands. Use this skill when someone wants to find creators,
-  source UGC talent, send outreach messages to creators, set up a gifting program, or build a creator roster.
-  Also trigger when someone mentions "find creators", "UGC outreach", "creator sourcing", "gifting program",
-  "influencer outreach", "creator DM", "micro-creator", or "find someone to make content for us".
+description: Find and outreach UGC creators for DTC brands. Use this skill when someone wants to find creators, source UGC talent, send outreach messages to creators, set up a gifting program, or build a creator roster. Also trigger when someone mentions "find creators", "UGC outreach", "creator sourcing", "gifting program", "influencer outreach", "creator DM", "micro-creator", or "find someone to make content for us".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # UGC Creator Outreach & Gifting

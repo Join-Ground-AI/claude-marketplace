@@ -1,10 +1,12 @@
 ---
 name: ugc-creative-briefer
-description: >
-  Create UGC creative briefs for DTC brands. Use this skill when someone wants to brief a UGC creator,
-  plan a UGC campaign, write a creative brief, decide on hook angles, set deliverables for creators,
-  or prepare a brief to send to a content creator. Also trigger when someone mentions "UGC brief",
-  "creator brief", "content brief for creators", "hook angle", "UGC deliverables", or "brief a creator".
+description: Create UGC creative briefs for DTC brands. Use this skill when someone wants to brief a UGC creator, plan a UGC campaign, write a creative brief, decide on hook angles, set deliverables for creators, or prepare a brief to send to a content creator. Also trigger when someone mentions "UGC brief", "creator brief", "content brief for creators", "hook angle", "UGC deliverables", or "brief a creator".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # UGC Creative Briefer

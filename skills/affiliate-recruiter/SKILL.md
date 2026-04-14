@@ -1,11 +1,12 @@
 ---
 name: affiliate-recruiter
-description: >
-  Recruit affiliates for DTC ecommerce brands. Use this skill when someone wants to find affiliates,
-  recruit publishers, build an affiliate program, find bloggers or deal sites to partner with, or
-  create an affiliate recruitment strategy. Also trigger when someone mentions "find affiliates",
-  "affiliate recruitment", "affiliate program", "publisher outreach", "coupon site partnerships",
-  "affiliate landing page", "cashback partners", or "grow my affiliate channel".
+description: Recruit affiliates for DTC ecommerce brands. Use this skill when someone wants to find affiliates, recruit publishers, build an affiliate program, find bloggers or deal sites to partner with, or create an affiliate recruitment strategy. Also trigger when someone mentions "find affiliates", "affiliate recruitment", "affiliate program", "publisher outreach", "coupon site partnerships", "affiliate landing page", "cashback partners", or "grow my affiliate channel".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Affiliate Recruiter

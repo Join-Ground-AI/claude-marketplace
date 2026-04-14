@@ -1,11 +1,12 @@
 ---
 name: seo-content-planner
-description: >
-  Create SEO content outlines and briefs for DTC ecommerce. Use this skill when someone wants to plan
-  a blog post, create a content outline, build a content brief, structure an article, plan internal linking,
-  or prepare content for a writer. Also trigger when someone mentions "content outline", "content brief",
-  "blog outline", "article structure", "plan a post", "SEO brief", "Surfer outline", "writer brief",
-  or "what should this article cover".
+description: Create SEO content outlines and briefs for DTC ecommerce. Use this skill when someone wants to plan a blog post, create a content outline, build a content brief, structure an article, plan internal linking, or prepare content for a writer. Also trigger when someone mentions "content outline", "content brief", "blog outline", "article structure", "plan a post", "SEO brief", "Surfer outline", "writer brief", or "what should this article cover".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Content Planner

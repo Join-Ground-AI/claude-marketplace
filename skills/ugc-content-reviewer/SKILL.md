@@ -1,11 +1,12 @@
 ---
 name: ugc-content-reviewer
-description: >
-  Review UGC content from creators against brand rules and performance criteria. Use this skill when
-  someone wants to evaluate creator content, review a UGC video, check if content meets brand guidelines,
-  approve or reject creator submissions, or write revision feedback to send back to a creator. Also trigger
-  when someone mentions "review this video", "creator sent content", "UGC review", "does this meet our standards",
-  "revision notes for creator", "approve content", or "QA creator content".
+description: Review UGC content from creators against brand rules and performance criteria. Use this skill when someone wants to evaluate creator content, review a UGC video, check if content meets brand guidelines, approve or reject creator submissions, or write revision feedback to send back to a creator. Also trigger when someone mentions "review this video", "creator sent content", "UGC review", "does this meet our standards", "revision notes for creator", "approve content", or "QA creator content".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # UGC Content Reviewer

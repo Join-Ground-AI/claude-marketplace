@@ -1,11 +1,12 @@
 ---
 name: affiliate-onboarding-kit
-description: >
-  Create affiliate onboarding materials and welcome kits for DTC brands. Use this skill when someone
-  wants to onboard new affiliates, create a welcome email, build an affiliate asset kit, write commission
-  structure docs, or prepare materials for new partners. Also trigger when someone mentions "affiliate
-  welcome email", "onboarding kit", "affiliate assets", "partner welcome", "affiliate creative pack",
-  "commission structure doc", or "set up a new affiliate".
+description: Create affiliate onboarding materials and welcome kits for DTC brands. Use this skill when someone wants to onboard new affiliates, create a welcome email, build an affiliate asset kit, write commission structure docs, or prepare materials for new partners. Also trigger when someone mentions "affiliate welcome email", "onboarding kit", "affiliate assets", "partner welcome", "affiliate creative pack", "commission structure doc", or "set up a new affiliate".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Onboarding & Asset Kit Maker

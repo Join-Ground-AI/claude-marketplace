@@ -1,11 +1,12 @@
 ---
 name: seo-keyword-researcher
-description: >
-  DTC ecommerce keyword research and clustering. Use this skill when someone wants to find keywords,
-  do keyword research, identify search opportunities, cluster topics, prioritize keywords by traffic
-  and difficulty, or build a keyword strategy for their DTC brand. Also trigger when someone mentions
-  "keyword research", "what should I rank for", "SEO keywords", "search volume", "keyword difficulty",
-  "commercial intent keywords", "comparison keywords", or "find keywords for my store".
+description: DTC ecommerce keyword research and clustering. Use this skill when someone wants to find keywords, do keyword research, identify search opportunities, cluster topics, prioritize keywords by traffic and difficulty, or build a keyword strategy for their DTC brand. Also trigger when someone mentions "keyword research", "what should I rank for", "SEO keywords", "search volume", "keyword difficulty", "commercial intent keywords", "comparison keywords", or "find keywords for my store".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Keyword Researcher

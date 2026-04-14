@@ -1,11 +1,12 @@
 ---
 name: seo-monthly-reviewer
-description: >
-  Monthly SEO performance review for DTC ecommerce. Use this skill when someone wants to review their
-  keyword rankings, analyze organic traffic, check which pages need optimization, identify CTR issues,
-  audit title tags, or do a monthly SEO check-in. Also trigger when someone mentions "ranking review",
-  "SEO check-in", "monthly SEO", "my rankings dropped", "CTR is low", "keyword tracking", "title tag test",
-  "organic traffic review", "Search Console data", or "which pages need work".
+description: Monthly SEO performance review for DTC ecommerce. Use this skill when someone wants to review their keyword rankings, analyze organic traffic, check which pages need optimization, identify CTR issues, audit title tags, or do a monthly SEO check-in. Also trigger when someone mentions "ranking review", "SEO check-in", "monthly SEO", "my rankings dropped", "CTR is low", "keyword tracking", "title tag test", "organic traffic review", "Search Console data", or "which pages need work".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Monthly Ranking Reviewer

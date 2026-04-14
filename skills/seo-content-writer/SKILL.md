@@ -1,11 +1,12 @@
 ---
 name: seo-content-writer
-description: >
-  Write SEO-optimized first drafts for DTC ecommerce from content briefs. Use this skill when someone
-  wants to write a blog post, create a first draft, write an article from an outline, produce content
-  from a content brief, or write SEO-optimized copy. Also trigger when someone mentions "write this article",
-  "draft this post", "write from this outline", "first draft", "write the content", "turn this brief into
-  an article", or "content writer".
+description: Write SEO-optimized first drafts for DTC ecommerce from content briefs. Use this skill when someone wants to write a blog post, create a first draft, write an article from an outline, produce content from a content brief, or write SEO-optimized copy. Also trigger when someone mentions "write this article", "draft this post", "write from this outline", "first draft", "write the content", "turn this brief into an article", or "content writer".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Content Writer

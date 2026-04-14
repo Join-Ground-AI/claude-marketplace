@@ -1,11 +1,12 @@
 ---
 name: affiliate-payout-reporter
-description: >
-  Generate affiliate payout reports and performance analytics for DTC brands. Use this skill when someone
-  wants to create an affiliate payout report, calculate commissions, track GMV by affiliate, report on
-  affiliate performance, process monthly payouts, or analyze affiliate channel ROI. Also trigger when someone
-  mentions "affiliate report", "payout report", "commission report", "affiliate GMV", "affiliate earnings",
-  "process payouts", "affiliate analytics", or "how are my affiliates performing".
+description: Generate affiliate payout reports and performance analytics for DTC brands. Use this skill when someone wants to create an affiliate payout report, calculate commissions, track GMV by affiliate, report on affiliate performance, process monthly payouts, or analyze affiliate channel ROI. Also trigger when someone mentions "affiliate report", "payout report", "commission report", "affiliate GMV", "affiliate earnings", "process payouts", "affiliate analytics", or "how are my affiliates performing".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Monthly Payout & Reporting

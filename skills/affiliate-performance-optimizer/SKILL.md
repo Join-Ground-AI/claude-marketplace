@@ -1,11 +1,12 @@
 ---
 name: affiliate-performance-optimizer
-description: >
-  Optimize affiliate program performance with tiered commissions and partner communications. Use this
-  skill when someone wants to improve affiliate performance, create tiered commissions, write an affiliate
-  newsletter, identify top performers, optimize commission structures, or boost affiliate engagement.
-  Also trigger when someone mentions "affiliate performance", "tiered commission", "affiliate newsletter",
-  "top affiliates", "affiliate optimization", "boost affiliate sales", or "affiliate engagement".
+description: Optimize affiliate program performance with tiered commissions and partner communications. Use this skill when someone wants to improve affiliate performance, create tiered commissions, write an affiliate newsletter, identify top performers, optimize commission structures, or boost affiliate engagement. Also trigger when someone mentions "affiliate performance", "tiered commission", "affiliate newsletter", "top affiliates", "affiliate optimization", "boost affiliate sales", or "affiliate engagement".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Performance Optimizer
