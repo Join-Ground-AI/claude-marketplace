@@ -1,18 +1,18 @@
 {
-  "name": "Ground-Acquisition-Skills",
+  "name": "ground-acquisition",
   "owner": {
     "name": "Ground",
     "url": "https://joinground.com"
   },
   "metadata": {
-    "description": "AI-powered acquisition workflows for DTC and ecommerce teams by Ground",
+    "description": "AI-powered acquisition workflows for DTC and ecommerce teams — UGC campaigns, SEO content, and affiliate program management",
     "version": "1.0.0",
     "repository": "https://github.com/Join-Ground-AI/Ground-Acquisition-Skills"
   },
   "plugins": [
     {
-      "name": "Ground-Acquisition-Skills",
-      "description": "13 AI workflow systems for UGC campaigns, SEO content, and affiliate program management.",
+      "name": "ground-acquisition-skills",
+      "description": "13 AI workflow systems for DTC and ecommerce teams: UGC creative briefing, creator outreach, content reviewing, performance tagging, SEO keyword research, content planning, content writing, monthly ranking reviews, affiliate recruiting, onboarding kits, content & placement QA, performance optimization, and payout reporting.",
       "source": "./",
       "strict": false,
       "skills": [
