@@ -16,7 +16,7 @@ claude plugins marketplace add Join-Ground-AI/Ground-Acquisition-Skills
 
 **Step 2: Install the plugin**
 ```bash
-claude plugins install ground-acquisition-skills@ground-acquisition
+claude plugins install ground-acquisition@Ground-Acquisition-Skills
 ```
 
 ## Built by

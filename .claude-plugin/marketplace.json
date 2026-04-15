@@ -1,5 +1,5 @@
 {
-  "name": "ground-acquisition",
+  "name": "Ground-Acquisition-Skills",
   "owner": {
     "name": "Ground",
     "url": "https://joinground.com"
@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "ground-acquisition-skills",
+      "name": "ground-acquisition",
       "description": "13 AI workflow systems for DTC and ecommerce teams: UGC creative briefing, creator outreach, content reviewing, performance tagging, SEO keyword research, content planning, content writing, monthly ranking reviews, affiliate recruiting, onboarding kits, content & placement QA, performance optimization, and payout reporting.",
       "source": "./",
       "strict": false,
